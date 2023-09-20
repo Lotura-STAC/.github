@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ Lotura는 세탁기 및 건조기의 동작 상태를 어플리케이션에 표시하고, 동작이 끝나면 휴대폰으로 푸시 알림을 전송하는 서비스입니다.
+🌈 Lotura는 기존 제품에 쉽게 적용 가능하고, 개인 뿐만 아니라 공용 기기에도 적용이 가능합니다.
+👩‍💻 Lotura는 다른 서비스와 달리, 어떠한 세탁기나 건조기에도 쉽게 적용이 가능하여 경제적 부담이 적고, 가정용 뿐만 아니라 공용 시설에도 쉽게 적용이 가능하도록 설계되었습니다.
